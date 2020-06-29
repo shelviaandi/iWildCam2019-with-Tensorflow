@@ -4,3 +4,9 @@ Bangkit is a Google-led academy developed in collaboration with Gojek, Tokopedia
 
 # Dataset
 The dataset is obtained from [Kaggle]( https://www.kaggle.com/c/iwildcam-2019-fgvc6) 
+
+# Data Proprocessing
+
+# Model Selection
+
+# Presentation
