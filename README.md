@@ -10,3 +10,4 @@ The dataset is obtained from [Kaggle]( https://www.kaggle.com/c/iwildcam-2019-fg
 # Model Selection
 
 # Presentation
+Presentation slides can be found at pdf file
